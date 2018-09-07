@@ -1,1 +1,0 @@
-place any javascript assets in this directory
